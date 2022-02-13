@@ -2,7 +2,8 @@
 nyoba aja
 
 alur fitur login:
-- klik tombol sign in
-- masukkan email dan password
-- validasi masukkan
-- menampilkan halaman home
+- Memasukkan nama, email, dan password
+- Memvalidasi masukan.
+- Memvalidasi pengguna dengan deteksi wajah.
+- Memasukkan nama ibu untuk validasi.
+- Menampilkan halaman home.
